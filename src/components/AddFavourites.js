@@ -18,7 +18,7 @@ const AddFavourite = () => {
 				/>
 			</svg>
 		</>
-	);
+	)
 };
 
 export default AddFavourite;
